@@ -2,8 +2,9 @@
 
 An open-source research/engineering foundation for multimodal, long-form video generation.
 
-**Important:** this is an independent implementation scaffold, not official Seedance software and
-contains no proprietary Seedance source code, weights, private APIs, or copyrighted training data.
+## Our official website: https://hydransec.online/CreatorAI/index.html
+
+**Important:** this is an independent implementation scaffold, weights, private APIs, or copyrighted training data.
 
 ## Target capabilities
 - Text-to-video and image-to-video interfaces
@@ -35,3 +36,7 @@ weights. It is **not a trained frontier model**. Commercial-level quality requir
 properly licensed dataset, trained checkpoints, distributed GPU training, evaluation and alignment.
 
 See `docs/` for architecture, training, API, open-source and deployment guides.
+
+## More
+As I do not have sufficient funds to train this AI video generation large model, I can only open-source this commercial-grade video generation large model framework for individuals or enterprises with the necessary funds to train it. Currently, this model framework can generate 1080p/2k/4k videos, which are similar to the current Seedance effect. We will continue to develop this model framework in the future. Thank you for your support!
+If I can sponsor it, I would be more than happy. I hope this project can flourish and help more people
