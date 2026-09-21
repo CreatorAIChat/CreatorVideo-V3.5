@@ -1,0 +1,16 @@
+fastapi>=0.115
+uvicorn[standard]>=0.30
+pydantic>=2.8
+requests>=2.32
+numpy>=1.26
+torch>=2.4
+torchvision>=0.19
+transformers>=4.45
+accelerate>=0.34
+safetensors>=0.4
+opencv-python>=4.10
+imageio>=2.35
+imageio-ffmpeg>=0.5
+Pillow>=10.4
+PyYAML>=6.0
+tqdm>=4.66

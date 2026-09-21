@@ -1,0 +1,12 @@
+model:
+  latent_channels: 16
+  hidden_size: 512
+  depth: 8
+  heads: 8
+  max_frames: 240
+generation:
+  fps: 24
+  shot_seconds: 8
+  overlap_frames: 8
+  steps: 30
+  guidance_scale: 5.0
